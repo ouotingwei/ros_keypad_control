@@ -1,0 +1,8 @@
+prefix=/home/tingweiouo/uart/devel
+
+Name: ros_read_keyboard
+Description: Description of ros_read_keyboard
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

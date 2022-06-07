@@ -1,0 +1,2 @@
+ros_read_keyboard:uart
+-DCATKIN_DEVEL_PREFIX=/home/tingweiouo/uart/devel -DCMAKE_INSTALL_PREFIX=/home/tingweiouo/uart/install -G Unix Makefiles
